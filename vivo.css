@@ -1,0 +1,270 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+
+body{
+    margin: 0;
+    overflow-x: hidden;
+    
+}
+
+
+
+.logo h1{
+    
+    font-family: languageFont, AvenirNext, "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu, sans-serif, WebRupee;
+    margin-right: 80px;
+    margin-top: 27px;
+    margin-bottom: 30px;
+    text-align: start;
+
+}
+.logoicon{
+    display: flex;
+    margin-top: -53px;
+    margin-left: 10rem;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.logoicon:hover{
+    color:slateblue;
+
+}
+.logoicon li{
+    list-style: none;
+    margin-left: 40px;
+}
+.navbar{
+    width: 100%;
+    height: 100px;
+}
+
+
+
+
+.v:hover{
+    color: cornflowerblue; 
+}
+   .v {
+    list-style-type: none;
+    padding: 10px;
+    cursor: pointer;
+    transition: color 0.5s;
+    color: black;
+    margin-right: 80px;
+    margin-top: 27px;
+    margin-bottom: 30px;
+    
+
+    
+
+
+}
+
+.writes{
+    position: absolute;
+    top: 0px;
+    color: black;
+    padding: 250px;
+    
+}
+
+
+.imagewriet{
+    position: absolute;
+    top: 0px;
+    color: black;
+    text-align: center;
+    margin-top: 937px;
+    margin-left: 193px;
+    
+
+}
+.bluepicwrites{
+    position: absolute;
+    color: aliceblue;
+    text-align:start;
+}
+
+
+.class h1{
+  font-family:languageFont, AvenirNext, "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu, sans-serif, WebRupee ; 
+  font-size: 30px; 
+  margin-right: 78px;
+  
+}
+
+    .subpics3 h1{
+         font-family: languageFont, AvenirNext, "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu, sans-serif, WebRupee;
+        font-size : 40px;
+        line-height:40px;
+        text-align: start;
+        letter-spacing :normal;
+        margin-left: 140px;
+
+
+    }
+.condainer{
+    display: flex;
+}
+
+
+
+.end{
+    background-color: black;
+    
+}
+.heading{
+    color: aliceblue;
+    text-align:start;
+    padding: 30px;
+}
+.point{
+    color:dimgray;
+    text-align: start;
+    padding: 4px;
+
+
+
+}
+
+.point:hover{
+color:darkcyan
+}
+.social{
+
+    background-color: black;
+    color: aliceblue;
+    margin-left: 10px;
+    padding-right: 180px;
+    padding-top: 47px;
+    
+    
+}
+
+.tablework{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    text-align: center;
+
+}
+
+.condainer{
+    background-color: rgb(5, 5, 5);
+}
+
+.girl img{
+    width:75rem;
+    border-radius: 20px;
+}
+.girl{
+    display: flex;
+    justify-content: center;
+}
+.bluepic img{
+    width: 75rem;
+    border-radius: 20px;
+
+}
+.bluepic{
+    display: flex;
+    justify-content:center ;
+}
+.bluepicwrites{
+    list-style: none;
+    margin-left: 165px;
+    margin-top: 130px;
+}
+.v23 {
+    position: absolute;
+     width: 450px;
+    border-radius: 20px;
+    top: 50px;
+    left: 20px;
+}
+
+
+.discover{
+    margin-right: 21px;
+    margin-top:56pxp;
+    margin-left: 102px;
+}
+.writes h1{
+    font-size: 50px;
+
+}
+.writes h2{
+    font-size: 25px;
+}
+.navbar{
+    padding: 16px;
+    
+
+}
+.logo h1{
+    padding: 10px;
+}
+.end{
+    color: aliceblue;
+    background-color: black;
+}
+.end{
+    display: flex;
+    text-align: center;
+}
+.last{
+    margin-left: 120px;
+}
+.table{
+    background-color: black;
+    margin-left: 43px;
+    
+}
+.mobile{
+    margin-left: 50px;
+}
+.phones{
+    position: relative;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img_1 img , .img_2 img , .img_3 img{
+    padding: 30px  0px;
+    border-radius: 58px;
+
+   
+}
+.moment{
+    position: absolute;
+    top:2200px;
+    left:100px;
+   
+    color:aliceblue;
+    
+}
+.fiveG{
+    position: absolute;
+    top: 2566px;
+    left: 925px;
+    color:aliceblue;
+    font-size: 15px;
+}
+.pro{
+    position: absolute;
+    top: 2392px;
+    left: 541px;
+    font-size: 10px;
+    
+    color:aliceblue;
+}
